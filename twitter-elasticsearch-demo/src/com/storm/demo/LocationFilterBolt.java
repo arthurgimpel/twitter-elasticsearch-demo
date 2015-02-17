@@ -13,9 +13,6 @@ import twitter4j.json.DataObjectFactory;
 
 import java.util.Map;
 
-/**
- * Created by David on 10/02/2015.
- */
 public class LocationFilterBolt extends BaseBasicBolt {
 
     @Override
